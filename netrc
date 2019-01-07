@@ -1,0 +1,9 @@
+machine myJira	
+	login <user_name>	
+	account <password>	
+	password <password>
+
+machine myCiscoPrime
+	login <user_name>
+	account <base 64 encoded "Username:Password">
+	password <base 64 encoded "Username:Password">
